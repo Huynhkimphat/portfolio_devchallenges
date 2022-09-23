@@ -11,7 +11,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/antoineterny/devchallenges-portfolio">
+    <a href="https://github.com/Huynhkimphat/portfolio_devchallenges">
       Solution
     </a>
     <span> | </span>
@@ -55,7 +55,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/antoineterny/devchallenges-portfolio
+$ git clone https://github.com/Huynhkimphat/portfolio_devchallenges
 
 # Install dependencies
 $ npm install
@@ -73,5 +73,4 @@ Which I didn't follow enough, at least the first part, thinking about the respon
 
 ## Contact
 
-- Website [antoineteny.com](https://antoineterny.com/)
-- GitHub [@antoineterny](https://github.com/antoineterny/)
+- GitHub [@phathk](https://github.com/Huynhkimphat/)
