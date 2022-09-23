@@ -149,8 +149,8 @@ class App extends Component {
           type: "react",
           text:
             "This very page. React is used to display the projects at the bottom of the page.",
-          demoUrl: "https://antoineterny.com/cocosnap/",
-          codeUrl: "https://github.com/antoineterny/cocoSnap",
+          demoUrl: "https://devchallenges-portfolio-master.vercel.app",
+          codeUrl: "https://github.com/Huynhkimphat/portfolio_devchallenges",
         },
       ],
       selectedProjects: [],
