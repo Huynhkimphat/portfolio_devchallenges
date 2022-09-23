@@ -35,8 +35,6 @@
 
 ## Overview
 
-[![screenshot](screenshot.png)](https://devchallenges-portfolio-two.vercel.app/)
-
 The challenge path's final boss !  
 I first created a react app to display my projects. I'm feeling more and more confident with React's logic.  
 I then had fun with grids and subgrids, and used seven breakpoints ! If I knew in advance I would use so many, I would have created responsive classes, which I didn't. That's how you gain experience isn't it ?
